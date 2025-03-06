@@ -1,0 +1,64 @@
+img
+{
+    width: 350px;
+
+    height: 200px;
+}
+
+table
+{
+    border-collapse: collapse;
+
+    text-align: center;
+
+    border-color: #dcdbdb;
+
+    border-right: 3px solid black;
+}
+
+p 
+{
+    margin: 10px 50px 10px 50px;
+    
+    line-height: 1.5;
+}
+
+.header-text
+{
+    font-size: 30px;
+
+    font-weight: 600;
+}
+
+button
+{
+    border: 1.5px solid black;
+
+    font-weight: 600;
+
+    font-size: 15px;
+
+    padding: 20px;
+    
+    margin-bottom: 20px;
+}
+
+.limit-p
+{
+    width: 450px;
+
+    height: 80px;
+
+    padding: 10px;
+
+    display: flex;
+
+    text-align: center;
+
+    justify-content: center;
+}
+
+td:first-child 
+{
+    border-right: 1px solid #dcdbdb; 
+}

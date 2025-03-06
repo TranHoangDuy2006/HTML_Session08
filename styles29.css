@@ -1,0 +1,88 @@
+.mini-header
+{
+    width: 200px;
+
+    height: 50px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+hr
+{
+    border: 2px solid #f57373;
+}
+
+p
+{
+    margin-left: -5px;
+}
+
+img
+{
+    width: 340px;
+
+    height: 200px;
+
+    object-fit: cover;
+
+    border-radius: 5px;
+
+    margin-top: 15px;
+}
+
+table
+{
+    border-collapse: collapse;
+
+    text-align: left;
+
+    border: none;
+}
+
+button
+{
+    border: 1.5px solid #f57373;
+
+    font-weight: 600;
+
+    font-size: 15px;
+
+    padding: 16px;
+    
+    margin-bottom: 20px;
+
+    margin-top: 20px;
+
+    width: 150px;
+
+    color: #f57373;
+
+    border-radius: 5px;
+
+    background-color: white;
+}
+
+td:nth-child(1), td:nth-child(2) 
+{
+    border-right: 1px solid #dcdbdb;
+}
+
+td
+{
+    padding: 15px;
+}
+
+.limit-p
+{
+    width: 450px;
+
+    height: 60px;
+
+    padding: 10px;
+
+    display: flex;
+
+    text-align: left;
+
+    justify-content: left;
+}
